@@ -8,3 +8,4 @@
 |[Tanney-102](https://github.com/Tanney-102)|[swon3210](https://github.com/swon3210)|[yjksw](https://github.com/yjksw)|[da-nyee](https://github.com/da-nyee)|[xlffm3](https://github.com/xlffm3)|[binghe819](https://github.com/binghe819)|[bperhaps](https://github.com/bperhaps)|
 |[링크](beuccol.md)|[링크](chris.md)|[자기소개](./koda.md)|[자기소개](./da-nyee.md)|[link](./KEVIN.md)|[마크](./binghe819.md)|[손너잘](./NEOZAL.md)|
 |프론트엔드 개발|프론트엔드 개발|백엔드 개발|백엔드 개발|백엔드 개발|백엔드 개발|백엔드 개발|
+|||||운동|||
